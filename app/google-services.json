@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "105145337844",
+    "firebase_url": "https://activeworldapp-49ba2-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "activeworldapp-49ba2",
+    "storage_bucket": "activeworldapp-49ba2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105145337844:android:947ddf4c86ce9f6213dba1",
+        "android_client_info": {
+          "package_name": "com.activeworldapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105145337844-lqb2lm2ntknm5fa37deve3k33t3ji62m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAnJ_1OmzyvY6WhK_c7tmvniQPME18loY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105145337844-lqb2lm2ntknm5fa37deve3k33t3ji62m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
